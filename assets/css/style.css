@@ -198,3 +198,12 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+.container {
+  display: flex;
+  ...container
+  gap: backdrop 10px;px;
+  gap: 10px 20px;
+  row-gap: 10px;
+  column-gap: 20px;
+}
