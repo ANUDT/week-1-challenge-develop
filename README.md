@@ -1,8 +1,6 @@
 # Week-1-challenge-develop
 
 
-CONCEPT SET UP: 
-
 Hi in this lesson we learn refactor HTML code.
 
 User Story
