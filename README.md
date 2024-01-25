@@ -1,7 +1,11 @@
 # Week-1-challenge-develop
 
 
+<<<<<<< HEAD
 Hi in this lesson we learn how ro refactor HTML code.
+=======
+Hi in this lesson we learn refactor HTML code.
+>>>>>>> 4d78ec1f2bd69091b60a35dd44a98e4966c1a1c3
 
 User Story
 
